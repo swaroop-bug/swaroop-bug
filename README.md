@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaroop-bug" alt="swaroop-bug" /></a> </p>
 
-- 🔭 I’m currently working on **campus assistant website**
+- 🔭 I’m currently working on **DocMind**
 
-- 🌱 I’m currently learning **cybersecurity**
+- 🌱 I’m currently learning **AIML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/swaroop-bug](https://github.com/swaroop-bug)
 
