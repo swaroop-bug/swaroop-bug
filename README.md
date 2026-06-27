@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Swaroop</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working on **DocMind**
+- 🔭 I’m currently working on **Chadwallet**
 
-- 🌱 I’m currently learning **AIML**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/swaroop-bug](https://github.com/swaroop-bug)
 
